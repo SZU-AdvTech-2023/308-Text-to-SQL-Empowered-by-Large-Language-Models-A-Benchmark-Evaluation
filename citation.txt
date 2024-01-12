@@ -1,0 +1,6 @@
+@article{REPO308,
+    author = "Gao, Dawei and Wang, Haibin and Li, Yaliang and Sun, Xiuyu and Qian, Yichen and Ding, Bolin and Zhou, Jingren",
+    journal = "arXiv preprint arXiv:2308.15363",
+    title = "{Text-to-SQL Empowered by Large Language Models: A Benchmark Evaluation}",
+    year = "2023"
+}
